@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?id=1XPWLjUo2-j8iGw07ALcxu7oqJ3nkl2Ho" alt="Rocketseat+"/>
 
-# DesignPatterns4Devs - Factory Patterns
+# DesignPatterns4Devs - Factory Pattern
 
 Factory é um dos padrões de desing mais famosos no mundo de desenvolvimento de software em Java!
 Usado de diferentes formas e muito famoso por usar herança e poliformismo na PRÁTICA.
