@@ -8,6 +8,8 @@ Nessa aula você irá entrar a fundo nos conceitos, de acordo com o que eu separ
 
 Essa aula esta para você que quer aprender desenvolvendo junto comigo 4 projetos usando Factory Pattern!
 
+Slides: https://docs.google.com/presentation/d/1q1yZ9wTXgpsWhBzuHwg__TdLSWbuIIWEOg7F7zDxAA4/edit?usp=sharing
+
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/anabneri) |
 | :-: |
